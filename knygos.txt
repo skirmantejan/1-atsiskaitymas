@@ -1,0 +1,20 @@
+'Karaliene Viktorija',  Lucy Worsley,  2015,  drama, 2
+'Drugeliu kambarys',  Lucinda Riley,  2008,  romanas, 2
+'Lizos butas',  Vaiva Rykstaite,  2020,  romanas, 2
+'Mes dedame taska',  Colleen Hoover,  2024,  romanas, 2
+'Svetimas',  Albert Camus,  2024,  romanas, 2
+'Jusu pasamones galia',  Joseph Murphy,  2022,  saviugda, 2
+'Prancuziskas testamentas',  Andrei Makine,  2022,  romanas, 2
+'Viesnia',  B.A. Paris,  2015,  romanas, 2
+'Kaulu upe',  JD Kirk,  2023,  trileris, 2
+'Rugiai',  Antanas B,  1999,  romanas, 2
+'Karaliene Viktorija',   Lucy Worsley,   2015,   drama, 2
+'Drugeliu kambarys',   Lucinda Riley,   2008,   romanas, 2
+'Lizos butas',   Vaiva Rykstaite,   2020,   romanas, 2
+'Mes dedame taska',   Colleen Hoover,   2024,   romanas, 2
+'Svetimas',   Albert Camus,   2024,   romanas, 2
+'Jusu pasamones galia',   Joseph Murphy,   2022,   saviugda, 2
+'Prancuziskas testamentas',   Andrei Makine,   2022,   romanas, 2
+'Viesnia',   B.A. Paris,   2015,   romanas, 2
+'Kaulu upe',   JD Kirk,   2023,   trileris, 2
+'Rugiai',   Antanas B,   1999,   romanas, 2
